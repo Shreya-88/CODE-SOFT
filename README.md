@@ -11,6 +11,14 @@ A collection of beginner Python projects created to practise graphical user inte
 | To-Do List | A desktop task manager that adds, displays, and removes tasks with SQLite storage. | Python, Tkinter, SQLite | [View To-Do List](Shreya%20To-Do-LIST%20.ipynb) |
 | AlphaFold2 Exploration | An exploratory ColabFold/AlphaFold2 notebook for protein structure prediction. | Python, ColabFold, Bioinformatics | [View AlphaFold2 Notebook](AlphaFold2.ipynb) |
 
+## 🖼️ Project Slideshow
+
+<p align="center">
+  <img src="codesoft-project-slideshow.gif" alt="CodeSoft Python project slideshow" width="800">
+</p>
+
+The slideshow presents my Scientific Calculator, Password Generator, and To-Do List applications developed using Python, Jupyter Notebook, and Tkinter.
+
 ## 🧠 Skills Practised
 
 - Python functions and classes
